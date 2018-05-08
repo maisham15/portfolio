@@ -120,3 +120,21 @@
  .btn-social i {
     line-height: 45px;
  }
+.profile {
+ height: 250px;
+ width: 190px;
+ border-radius: 50%;
+}
+#maincontent {
+ background-image: url(http://cdn.wallpapersafari.com/36/96/CxnHhu.jpg);
+}
+body {
+ background-color: #D3D3D3;
+}
+.thumbnail {
+ background-color:    #4d0000;
+}
+.text-center {
+ color:   #f2f2f2
+;
+}
